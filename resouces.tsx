@@ -7,3 +7,4 @@ https://dev.to/shubham1710/build-an-e-commerce-website-with-mern-stack-part-1-se
 https://stackoverflow.com/questions/39695275/react-js-handling-file-upload
 
 https://stackoverflow.com/questions/18191893/generate-pdf-from-html-in-div-using-javascript
+https://www.figma.com/file/ODwauU4CbIwu25b6QuzcIi/EBAdmin-Block-Micro-Plan-Content-Uploads?node-id=0%3A1
